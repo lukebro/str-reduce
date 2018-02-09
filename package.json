@@ -1,0 +1,24 @@
+{
+  "name": "str-reduce",
+  "version": "1.0.0",
+  "description": "Reduce concurrent characters in string",
+  "repository": "lukebro/str-reduce",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "keywords": [
+    "string",
+    "str",
+    "reduce",
+    "remove",
+    "duplicates",
+    "char"
+  ],
+  "author": "Lukasz Brodowski <lukebrodowski@gmail.com> (https://lukebro.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "^0.18.2"
+  }
+}
